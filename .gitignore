@@ -1,0 +1,9 @@
+# PHP backend ignore rules
+vendor/
+.env
+*.log
+*.cache
+.DS_Store
+Thumbs.db
+.vscode/
+.idea
